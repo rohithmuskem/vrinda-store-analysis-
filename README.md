@@ -1,5 +1,5 @@
 
-📊 Vrinda Store Sales Dashboard – Excel Project
+# 📊 Vrinda Store Sales Dashboard – Excel Project
 
 
 Hi there! 👋
@@ -7,7 +7,7 @@ This is a Microsoft Excel dashboard I created using sales data from Vrinda Store
 
 
 
-🗂️ About the Project
+## 🗂️ About the Project
 Source of Data: Sales and stock data from Vrinda Store (vrinda store 2.xlsx)
 
 Tool Used: Microsoft Excel
@@ -17,7 +17,7 @@ Purpose: Track sales, monitor product performance, and visualize trends in an ea
 
 
 
-📊 What’s Inside the Dashboard?
+## 📊 What’s Inside the Dashboard?
 The Excel dashboard includes:
 
 ✅ Total Sales Summary – See the overall performance at a glance
@@ -35,7 +35,7 @@ The Excel dashboard includes:
 
 
 
-🧹 How I Prepared the Data
+## 🧹 How I Prepared the Data
 To build this dashboard, I:
 
 Cleaned the data (removed blanks, corrected errors)
@@ -48,7 +48,7 @@ Designed charts and formulas to visualize key metrics
 
 
 
-🔍 What You Can Learn
+## 🔍 What You Can Learn
 With this dashboard, you can:
 
 Identify best-selling products and categories
@@ -61,7 +61,7 @@ Spot trends and patterns in customer purchasing behavior
 
 
 
-📁 What’s Included
+## 📁 What’s Included
 vrinda store 2.xlsx – The Excel file with data and dashboard
 
 README.md – This documentation file
@@ -69,7 +69,7 @@ README.md – This documentation file
 
 
 
-🛠 How to Use It
+## 🛠 How to Use It
 Open the Excel file using Microsoft Excel
 
 Navigate to the Dashboard tab
