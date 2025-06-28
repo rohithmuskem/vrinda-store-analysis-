@@ -1,3 +1,5 @@
+VRINDA STORE DATA ANALYSIS -MS EXCEL
+
 Hi there! 👋
 This is a Microsoft Excel dashboard I created using sales data from Vrinda Store. The main goal was to turn raw store data into a clear and interactive dashboard that shows how the business is doing.
 
